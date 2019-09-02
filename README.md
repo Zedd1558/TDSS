@@ -1,5 +1,5 @@
 # TDSS
-thesis selection and distribution system
+thesis selection and distribution system. Can be used by a university admistrators or teachers to distribute research area of interest among the students. A resource allocation problem. here, students choice/ preferences are considered.
 # Short Description
 Office can add new students and supervisors. 
 Supervisor can add new thesis topics.
