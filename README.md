@@ -9,6 +9,6 @@ Thesis topics are shown in "Research Area".
 areas are distributed  among the students.
 # Tools used 
 Java, JavaFx, swing, Oracle database, odbc, rs2xml
-https://github.com/Zedd1558/TDSS/blob/master/Screenshot%20(61).png
-https://github.com/Zedd1558/TDSS/blob/master/Screenshot%20(62).png
-https://github.com/Zedd1558/TDSS/blob/master/Screenshot%20(64).png
+![](https://github.com/Zedd1558/TDSS/blob/master/Screenshot%20(61).png)
+![](https://github.com/Zedd1558/TDSS/blob/master/Screenshot%20(62).png)
+![](https://github.com/Zedd1558/TDSS/blob/master/Screenshot%20(64).png)
